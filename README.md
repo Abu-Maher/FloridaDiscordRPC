@@ -1,0 +1,2 @@
+# FloridaDiscordRPC
+Florida DiscordRPC
